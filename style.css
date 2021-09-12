@@ -1,0 +1,26 @@
+.image img{
+    width: 400px;
+    height: 400px;
+    margin: 0 auto;
+    top: 10px;
+    
+}
+.image{
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    height: 500px;
+    position: relative;
+    align-items: center;
+    margin: 0 auto;
+}
+body{
+    background-image: url("https://modworkshop.net/mydownloads/previews/88012_1610031564_71509adf7f774c8ab9250e5e72f0c2ee.png");
+    display: grid;
+    width: 90vw;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    color: white;
+}
