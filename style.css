@@ -2,7 +2,7 @@
     width: 400px;
     height: 400px;
     margin: 0 auto;
-    top: 10px;
+    margin-top: 30px;
     
 }
 .image{
@@ -13,6 +13,8 @@
     position: relative;
     align-items: center;
     margin: 0 auto;
+    background-color: rgba(255, 255, 255, 0.5);    
+
 }
 body{
     background-image: url("https://modworkshop.net/mydownloads/previews/88012_1610031564_71509adf7f774c8ab9250e5e72f0c2ee.png");
@@ -20,7 +22,7 @@ body{
     width: 90vw;
 }
 p{
-    font-family: 'Times New Roman', Times, serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 24px;
-    color: gray;
+    color: black;
 }
